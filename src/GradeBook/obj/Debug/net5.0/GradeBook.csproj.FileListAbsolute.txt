@@ -1,0 +1,16 @@
+C:\Users\matt\Documents\src\Training\gradebook\src\GradeBook\bin\Debug\net5.0\GradeBook.exe
+C:\Users\matt\Documents\src\Training\gradebook\src\GradeBook\bin\Debug\net5.0\GradeBook.deps.json
+C:\Users\matt\Documents\src\Training\gradebook\src\GradeBook\bin\Debug\net5.0\GradeBook.runtimeconfig.json
+C:\Users\matt\Documents\src\Training\gradebook\src\GradeBook\bin\Debug\net5.0\GradeBook.runtimeconfig.dev.json
+C:\Users\matt\Documents\src\Training\gradebook\src\GradeBook\bin\Debug\net5.0\GradeBook.dll
+C:\Users\matt\Documents\src\Training\gradebook\src\GradeBook\bin\Debug\net5.0\ref\GradeBook.dll
+C:\Users\matt\Documents\src\Training\gradebook\src\GradeBook\bin\Debug\net5.0\GradeBook.pdb
+C:\Users\matt\Documents\src\Training\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.csprojAssemblyReference.cache
+C:\Users\matt\Documents\src\Training\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matt\Documents\src\Training\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.AssemblyInfoInputs.cache
+C:\Users\matt\Documents\src\Training\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.AssemblyInfo.cs
+C:\Users\matt\Documents\src\Training\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.csproj.CoreCompileInputs.cache
+C:\Users\matt\Documents\src\Training\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.dll
+C:\Users\matt\Documents\src\Training\gradebook\src\GradeBook\obj\Debug\net5.0\ref\GradeBook.dll
+C:\Users\matt\Documents\src\Training\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.pdb
+C:\Users\matt\Documents\src\Training\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.genruntimeconfig.cache
